@@ -239,7 +239,7 @@ No license has been specified yet. If you intend to make this repository availab
 **Language:** C  
 **Subject Area:** Programming Fundamentals
 
-- GitHub: [Zameer Ansari]()
+- GitHub: [Zameer Ansari](https://github.com/is-zameer)
 
 ---
 
