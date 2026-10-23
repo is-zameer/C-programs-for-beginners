@@ -11,7 +11,7 @@ void insertString(char str[], const char sub[], int pos) {
     for(j=pos; str[j] != '\0'; j++)
         temp[i++] = str[j];
     temp[i] = '\0';
-    strcpy(str, temp);s
+    strcpy(str, temp);
 }
 void deleteChars(char str[], int pos, int n)    {
     int len = strlen(str), i;
